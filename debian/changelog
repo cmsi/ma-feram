@@ -1,40 +1,46 @@
-feram (0.24.02-1) wheezy; urgency=low
+feram (0.26.04-1) unstable; urgency=low
+
+  * New upstream release 0.26.04
+
+ -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Sat, 15 Jul 2017 15:57:55 +0900
+
+feram (0.24.02-1) unstable; urgency=low
 
   * New upstream release 0.24.02
 
  -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Sat, 29 Aug 2015 22:44:54 +0900
 
-feram (0.23.00unstable-1) wheezy; urgency=low
+feram (0.23.00unstable-1) unstable; urgency=low
 
   * New upstream release
 
  -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Tue, 28 Apr 2015 18:14:54 +0900
 
-feram (0.22.06-1) wheezy; urgency=low
+feram (0.22.06-1) unstable; urgency=low
 
   * New upstream release
 
  -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Sun, 15 Feb 2015 21:09:28 +0900
 
-feram (0.22.04-1) wheezy; urgency=low
+feram (0.22.04-1) unstable; urgency=low
 
   * New upstream release
 
  -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Wed, 16 Jul 2014 19:25:45 +0900
 
-feram (0.22.01-1) wheezy; urgency=low
+feram (0.22.01-1) unstable; urgency=low
 
   * New upstream release
 
  -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Mon, 10 Mar 2014 16:17:20 +0900
 
-feram (0.21.04-1) wheezy; urgency=low
+feram (0.21.04-1) unstable; urgency=low
 
   * Updated upstream source to 0.21.04.
 
  -- Synge Todo <wistaria@issp.u-tokyo.ac.jp>  Sat, 21 Sep 2013 00:19:55 +0900
 
-feram (0.21.02-1) wheezy; urgency=low
+feram (0.21.02-1) unstable; urgency=low
 
   * Initial release for 0.21.02
 

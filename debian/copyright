@@ -3,7 +3,7 @@ Upstream-Name: feram
 Source: <http://loto.sourceforge.net/feram/index.en.html>
 
 Files: *
-Copyright: 2007-2015 Takeshi Nishimatsu
+Copyright: 2007-2017 Takeshi Nishimatsu
 License: GPL-2+
  feram is distributed in the hope that it will be useful, but
  WITHOUT ANY WARRANTY. You can copy, modify and redistribute feram,
